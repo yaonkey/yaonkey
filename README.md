@@ -1,4 +1,4 @@
-👋 Hi, I’m @yaonkey
+👋 Hi, I’m @yaonkey and don't like frontend
 
 👀 I'm interested in creating automation apps and other programs
 
