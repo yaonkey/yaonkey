@@ -2,8 +2,6 @@
 
 👀 I'm interested in creating automation apps and other programs
 
-🌱 I'm currently learning Golang
-
 🫀 I like to create APIs and engines
 
 <!---
