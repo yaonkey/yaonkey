@@ -1,10 +1,9 @@
-👋 Hi, I’m @yaonkey and don't like frontend
+👋 Hi, I’m @yaonkey and don't like frontend. I like backend
 
-👀 I'm interested in creating automation apps and other programs
+👀 Interesting to create automation and help businesses in some way
 
-🫀 I like to create APIs and engines
+Time: UTC+3
+Languages: Russian, English
+Programming languages: PHP(m), Java(j), JS(j)
+Other languages: HTML5, CSS3
 
-<!---
-yaonkey/yaonkey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
