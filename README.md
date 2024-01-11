@@ -2,10 +2,10 @@
 
 👀 Interesting to create automation and help businesses in some way
 
-Time: UTC+3
+🕙 Time: UTC+3
 
-Languages: Russian, English
+🏳️ Languages: Russian, English
 
-Programming languages: PHP(m), Java(j), JS(j)
+🐘 Programming languages: PHP(m), Java(j), JS(j)
 
-Other languages: HTML5, CSS3
+🔤 Other languages: HTML5, CSS3
