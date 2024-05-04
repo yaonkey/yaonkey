@@ -6,6 +6,6 @@
 
 🏳️ Languages: Russian, English
 
-🐘 Programming languages: PHP(m), Java(j), JS(j)
+🐘 Programming languages: PHP(m), GoLang(j), JS(j)
 
 🔤 Other languages: HTML5, CSS3
