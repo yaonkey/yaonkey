@@ -1,11 +1,50 @@
-👋 Hi, I’m @yaonkey and don't like frontend. I like backend
+<h1 align="center">🐍 Yaonkey | Dmitry </h1>
+<h3 align="center">Full-stack Developer</h3>
 
-👀 Interesting to create automation and help businesses in some way
+###
 
-🕙 Time: UTC+3
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nuxt" height="40" alt="svelte logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+</div>
 
-🏳️ Languages: Russian, English
+###
 
-🐘 Programming languages: PHP(m), GoLang(j), JS(j)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="githubactions logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />  
+</div>
 
-🔤 Other languages: HTML5, CSS3
+###
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yaonkey&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=en">
+</p>
+
+###
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yaonkey&theme=radical&no-frame=true&no-bg=true&margin-w=6">
+</p>
+
+###
