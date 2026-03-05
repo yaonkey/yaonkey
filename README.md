@@ -6,7 +6,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue logo"  />
   <img width="12" />
