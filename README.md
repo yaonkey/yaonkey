@@ -2,6 +2,8 @@
 
 <div align="center">
   <h3>General technologies</h3>
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
